@@ -1,0 +1,15 @@
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/api/SubjectEndpoint.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/api/TopicsEndpoint.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/models/Course.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/api/TextbookEndpoint.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/api/CourseEndpoint.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/RestfulBotsApplication.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/datastore/SubjectService.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/pubsub/Publish.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/models/Subject.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/HelloController.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/datastore/TextbookService.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/OpenAPIConfiguration.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/models/Textbook.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/pubsub/Topics.java
+/Users/luisvazquezlazaro/IdeaProjects/vazquezlazarol17-restful-bots-hw4/src/main/java/edu/ecu/cs/seng6285/restfulbots/datastore/CourseService.java
